@@ -1,0 +1,21 @@
+3. Unfollow Artist -----> 2. Follow Artist -----> 1. View Gigs
+
+1               2                             3                               4                               5
+Add a gig -----> View my upcomming gigs -----> Edit a gig / Remove a gig -----> View gigs i'm attending -----> Remove a gig from calendar
+          -----> All upcomming gigs     -----> Add a gig to calendar
+                                        -----> Follow an Artist          -----> Who i'm following       ----->  Unfollow an artist
+                                                                         -----> Gigs feed
+                                        -----> Search
+                                        -----> View Gig Details
+                                        
+Core Use Cases
+- Add a gig
+- All upcomming gigs
+- Add a gig to calendar
+- Follow an artist
+
+Supportive Use Cases
+- Edit a gig
+- Remove a gig
+- Remove a gig from calendar
+- Unfollow an artist

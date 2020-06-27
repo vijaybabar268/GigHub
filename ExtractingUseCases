@@ -1,0 +1,26 @@
+Authentication (User)
+- Sign Up
+- Login
+- Logout
+- Change Password
+- Profile
+
+Gigs
+- Add a gig
+- My upcomming gigs (for artist)
+- Edit a gig
+- Remove a gig
+- View all upcomming gigs
+- Search
+- View gig details
+
+Gig Calendar
+- Add a gig to calender
+- Remove a gig from calender
+- View my all calendar gigs 
+
+Following
+- Follow an artist
+- Unfollow an artist
+- View my all followings
+- Gig feed
